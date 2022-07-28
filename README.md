@@ -1,4 +1,4 @@
-## Hi there, I'm Rasif <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px/>
+## Hi there, I'm Rasif <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rasif-Taghizada&theme=blue-green&show_icons=true" align="left" width="47%"/>
 
