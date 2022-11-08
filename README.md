@@ -7,9 +7,9 @@
 <br />
 
 ### Connect with me:
-[<img height="22" width="22" align="left" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" />][linkedin]
-[<img height="22" width="22" align="left" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />][Instagram]
-[<img height="22" width="22" align="left" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg" />][Facebook]
+[<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
+[<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" />][Instagram]
+[<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][Facebook]
 
 [Linkedin]: https://www.linkedin.com/in/rasif-tagizada/
 [Instagram]: https://www.instagram.com/_.rasif._10/
